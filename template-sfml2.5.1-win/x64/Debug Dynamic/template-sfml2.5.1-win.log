@@ -1,0 +1,15 @@
+﻿  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Скопировано файлов:         1.
+  Подпапка или файл C:\Users\79039\source\repos\template-sfml2.5.1-win\x64\Debug Dynamic\resources уже существует.
+  C:\Users\79039\source\repos\template-sfml2.5.1-win\resources\ball.wav
+  C:\Users\79039\source\repos\template-sfml2.5.1-win\resources\sansation.ttf
+  Скопировано файлов:         2.
+  Game.cpp
+  main.cpp
+  Создание кода...
+c:\users\79039\source\repos\template-sfml2.5.1-win\game.cpp(32): warning C4715: Game::Check: значение возвращается не при всех путях выполнения
+  template-sfml2.5.1-win.vcxproj -> C:\Users\79039\source\repos\template-sfml2.5.1-win\x64\Debug Dynamic\template-sfml2.5.1-win.exe
